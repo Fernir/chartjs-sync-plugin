@@ -1,0 +1,31 @@
+{
+  "name": "chartjs-sync-tooltips",
+  "version": "1.0.0",
+  "description": "Chartjs 4 synced tooltips",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "dev": "vite docs",
+    "build": "vite build",
+    "watch": "vite build --watch"
+  },
+  "keywords": [
+    "chartjs 4",
+    "tooltips",
+    "sync",
+    "plugin"
+  ],
+  "author": "Nikolay Alekseev",
+  "license": "MIT",
+  "peerDependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "dependencies": {
+    "chart.js": "^4.5.0"
+  }
+}
