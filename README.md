@@ -2,7 +2,7 @@
 
 Chart.js 4 synchronized tooltips plugin
 
-![demo](https://github.com/Fernir/chartjs-sync-plugin/raw/master/pscr.png)
+![demo](https://github.com/Fernir/chartjs-sync-plugin/raw/master/img.png)
 
 [Demo](https://fernir.github.io/chartjs-sync-plugin/)
 
