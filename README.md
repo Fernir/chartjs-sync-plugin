@@ -6,6 +6,12 @@ Chart.js 4 synchronized tooltips plugin
 
 [Demo](https://fernir.github.io/chartjs-sync-plugin/)
 
+## Installation
+
+```bash
+npm install chartjs-sync-plugin
+```
+
 ## Usage
 
 ```js
