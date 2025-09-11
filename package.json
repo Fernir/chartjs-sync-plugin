@@ -22,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/Fernir/chartjs-sync-plugin/issues"
   },
-  "homepage": "https://github.com/Fernir/chartjs-sync-plugin/#readme",
   "author": "Nikolay Alekseev",
   "license": "MIT",
   "peerDependencies": {},
