@@ -1,6 +1,6 @@
 {
   "name": "chartjs-sync-tooltips",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Chartjs 4 synced tooltips",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -15,6 +15,14 @@
     "sync",
     "plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernir/leaflet.heatmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fernir/leaflet.heatmap/issues"
+  },
+  "homepage": "https://github.com/Fernir/leaflet.heatmap/#readme",
   "author": "Nikolay Alekseev",
   "license": "MIT",
   "peerDependencies": {},
