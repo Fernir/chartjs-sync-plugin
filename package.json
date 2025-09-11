@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fernir/leaflet.heatmap.git"
+    "url": "git+https://github.com/Fernir/chartjs-sync-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/Fernir/leaflet.heatmap/issues"
+    "url": "https://github.com/Fernir/chartjs-sync-plugin/issues"
   },
-  "homepage": "https://github.com/Fernir/leaflet.heatmap/#readme",
+  "homepage": "https://github.com/Fernir/chartjs-sync-plugin/#readme",
   "author": "Nikolay Alekseev",
   "license": "MIT",
   "peerDependencies": {},
